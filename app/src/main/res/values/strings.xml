@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">My Beginner Compose</string>
+    <string name="name1">Lebron James</string>
+    <string name="name2">Kareem Abdul-Jabbar</string>
+    <string name="name3">Karl Malone</string>
+    <string name="name4">Kobe Bryant</string>
+    <string name="name5">Michael Jordan</string>
+    <string name="name6">Dirk Nowitzki</string>
+    <string name="name7">Wilt Chamberlain</string>
+    <string name="name8">Shaquille O\'Neal</string>
+    <string name="name9">Kevin Durant</string>
+    <string name="name10">Carmelo Anthony</string>
+
+    <string name="desc1">LeBron Raymone James (/ləˈbrɒn/; lahir 30 Desember, 1984) adalah pemain basket profesional asal Amerika yang bermain untuk Los Angeles Lakers dari National Basketball Association (NBA). James telah memenangkan 4 NBA championships (2012, 2013, 2016, 2020), 4 NBA Most Valuable Player Awards (2009, 2010, 2012, 2013), 4 NBA Finals MVP Awards (2012, 2013, 2016,2020), 2 Olympic gold medals (2008, 2012), 1 NBA scoring title (2008), dan NBA Rookie of the Year Award (2004). Ia juga terpilih 20 kali dalam tim NBA All-Star (dinamai 2 kali MVP), 13 All-NBA teams, dan 6 All-Defensive teams, serta leading scorer Cavaliers sepanjang masa.
+        James bermain basket antar sekolah di St. Vincent–St. Mary High School di kotanya, Akron, Ohio, dimana ia dipuji setinggi-tingginya oleh media nasional sebagai bintang NBA selanjutnya. Setelah lulus, ia terpilih nomor 1 di 2003 NBA draft oleh Cleveland Cavaliers. James memimpin Cleveland hingga penampilan Finals pertama Cavaliers di 2007, kalah dari San Antonio Spurs. Tahun 2010, ia meninggalkan Cavaliers untuk bermain membela Miami Heat dalam publikasi spesial ESPN yang berjudul The Decision.
+        James bermain 4 musim untuk Heat, mencapai Finals setiap tahunnya dan memenangkan kejuaraan secara beruntun tahun 2012 dan 2013. Tahun 2013, ia memimpin Miami dalam 27 kemenangan beruntun, ketiga terbanyak dalam sejarah NBA. Menjelang musim terakhirnya di Miami Heat, James memutuskan tidak memperbarui kontraknya dan bergabung kembali ke Cavaliers. Dengan kepemimpinannya, Cleveland melaju ke 2 Finals beruntun (5 dan 6 beruntun untuk James) melawan Golden State Warriors, memenangkannya pada tahun 2016.</string>
+
+    <string name="desc2">Kareem Abdul-Jabbar (lahir 16 April 1947 dengan nama Ferdinand Lewis Alcindor, Jr.) adalah mantan pemain bola basket profesional NBA berkebangsaan Amerika Serikat, Aktivis, Aktor, Penulis, yang memegang rekor poin terbanyak sepanjang sejarah kompetisi NBA.</string>
+
+    <string name="desc3">Karl Malone (lahir 24 Juli 1963) adalah mantan pemain bola basket professional Amerika Serikat. Sewaktu kuliah ia dijuluki sebagai Mailman karena konsistensinya ("the mailman selalu mengirimkan") dan memenangkan NBA Most Valuable Player award dua kali. Malone dianggap sebagai salah satu power forwards terbaik dalam sejarah NBA.</string>
+
+    <string name="desc4">Kobe Bean Bryant (/ˈkoʊbiː/ koh–bee; 23 Agustus 1978 – 26 Januari 2020) adalah seorang pemain basket profesional Amerika Serikat. Bermain pada posisi shooting guard, Bryant menghabiskan seluruh 20 tahun karirnya dengan Los Angeles Lakers di National Basketball Association (NBA). Sering dianggap sebagai salah satu pemain basket terbaik sepanjang masa, Bryant telah memenangkan lima gelar juara NBA, 18 kali All-Star, 15 kali All-NBA Team, 12 kali All-Defensive Team, NBA Most Valuable Player (MVP) tahun 2008, dan dua kali NBA Finals MVP. ia mencetak skor terbanyak di NBA selama dua musim, menduduki peringkat keempat pada daftar pencetak skor musim reguler terbanyak sepanjang masa dan keempat pada daftar pencetak skor playoff terbanyak sepanjang masa.</string>
+
+    <string name="desc5">Michael Jeffrey Jordan (lahir 17 Februari 1963) adalah pemain bola basket profesional asal Brooklyn, New York. Ia merupakan pemain terkenal di dunia dalam cabang olahraga itu. Setidaknya, enam kali merebut kejuaraan NBA bersama kelompok Chicago Bulls (1991–1993, 1996–1998). Ia memiliki tinggi badan 198 cm dan merebut gelar pemain terbaik.</string>
+
+    <string name="desc6">Dirk Werner Nowitzki adalah pemain bola basket Jerman yang bermain dalam kompetisi National Basketball Association (NBA) di Amerika Serikat bersama klub Dallas Mavericks. Dirk Nowitzki dipandang sebagai salah satu pemain asing terbesar dalam sejarah kompetisi bola basket NBA. Bertinggi badan 213 cm, Nowitzki berposisi sebagai forward, Ia menunjukkan sesuatu yang unik pada saat berhadapan dengan pemain bertahan (defender) karena ia lebih tinggi dari kebanyakan pemain depan (small forward). Tetapi ia juga memiliki kemampuan menembak akurat untuk ukuran pemain tinggi besar seukurannya. Selama bertahun-tahun fadeaway jump shot-nya membuktikan sebagai salah satu manuver lemparan paling efektif dalam sejarah NBA.</string>
+
+    <string name="desc7">Wilton Norman Chamberlain, lebih dikenal sebagai Wilt Chamberlain (21 Agustus 1936 – 12 Oktober 1999) adalah seorang pemain bola basket National Basketball Association. Ia bermain pada posisi center dan dikenal sebagai salah satu pemain terbaik dan paling dominan dalam sejarah NBA. Chamberlain masuk dalam Basketball Hall of Fame pada tahun 1978, terpilih sebagai anggota NBA\'s 35th Anniversary Team pada tahun 1980, dan terpilih sebagai salah satu dari anggota 50 Greatest Players in NBA History pada tahun 1996.</string>
+
+    <string name="desc8">Shaquille Rashaun O\'Neal (lahir 6 Maret 1972), sering disingkat Shaq, adalah mantan pemain basket NBA yang paling dominan. O\'Neal pertama bermain untuk Orlando Magic, lalu pindah ke Los Angeles Lakers, di mana ia menemukan kejayaannya dengan merengkuh 3 kali titel juara NBA. Menjelang musim 2004–05, dia pindah ke Miami Heat dan merengkuh 1 titel juara NBA, lalu pindah ke Phoenix Suns, dan untuk musim 2009–10 dia pindah ke Cleveland Cavaliers dan Boston Celtic, lalu pensiun disana. Dengan tinggi 216 cm, berat 147 kg, dan sepatu 55, Shaq terkenal dengan ukuran fisik tubuhnya. Shaq memiliki beberapa julukan seperti "the Diesel", "the Big Aristotle", "M.D.E (Most Dominant Ever nowiki)", "Superman", dan julukannnya yang terakhir setelah mendapat gelar doktoralnya, "Doctor Shaq".</string>
+
+    <string name="desc9">Kevin Wayne Durant (lahir Washington, District of Columbia, 29 September 1988) adalah pebasket profesional berkebangsaan Amerika Serikat yang membela Phoenix Suns di National Basketball Association (NBA). Ia hanya menyelesaikan 1 musim di Universitas Texas dan di draft pada pilihan ke–2 di ronde pertama NBA draft pada tahun 2007. Kevin berposisi sebagai small forward yang bertinggi badan 208 cm dan telah menjuarai kompetisi NBA musim 2016 – 2017 dan memenangi MVP Final 2016 – 2017. Ia terpilih 14 kali NBA All-Star dan 4 kali NBA scoring champion.</string>
+
+    <string name="desc10">Carmelo Kiyan Anthony (lahir 29 Mei 1984), bertinggi badan 203 cm adalah pemain bola basket profesional Amerika Serikat yang bermain sebagai small forward, dipilih dalam draft 2003 oleh klub Denver Nuggets dalam liga NBA sebagai pilihan ketiga, di bawah Lebron James (Cleveland Cavaliers) dan Darko Milicic (Detroit Pistons), lalu pada tahun 2011 pindah ke New York Knicks. Ia juga menjadi pemain tim nasional bola basket Amerika Serikat. Saat ini ia bermain di klub Los Angeles Lakers.</string>
+
+
+    <string name="image1">https://tse2.mm.bing.net/th?id=OIP.WvaH8ha9CIrF0De24dTTdQHaE7&amp;pid=Api&amp;P=0&amp;h=180</string>
+    <string name="image2">https://tse2.mm.bing.net/th?id=OIP.gj1p2IvP8o2JImglOayI1AHaJQ&amp;pid=Api&amp;P=0&amp;h=180</string>
+    <string name="image3">https://shorturl.at/dmMX1</string>
+    <string name="image4">https://tse1.mm.bing.net/th?id=OIP.ItwHgzwVcxlCbFm45KSd9AHaHa&amp;pid=Api&amp;P=0&amp;h=180</string>
+    <string name="image5">https://tse4.mm.bing.net/th?id=OIP.j2llxMxTtd4CEB6PhcJkAQHaLG&amp;pid=Api&amp;P=0&amp;h=180</string>
+    <string name="image6">https://tse1.mm.bing.net/th?id=OIP.QJr8nqzvpPQZdjg-m8PCHwAAAA&amp;pid=Api&amp;P=0&amp;h=180</string>
+    <string name="image7">https://tse2.mm.bing.net/th?id=OIP.LrLY3kyyfbtuLNI279wewAHaJY&amp;pid=Api&amp;P=0&amp;h=180</string>
+    <string name="image8">https://tse2.mm.bing.net/th?id=OIP.uH7UKvAUPs6Pvwoi2HXZLgHaJM&amp;pid=Api&amp;P=0&amp;h=180</string>
+    <string name="image9">https://tse4.mm.bing.net/th?id=OIP.TckZ7zbEHYqahTqEbsb6SgHaFF&amp;pid=Api&amp;P=0&amp;h=180</string>
+    <string name="image10">https://tse1.mm.bing.net/th?id=OIP.q1JbT-Psxjv6t-53PuifMQHaHX&amp;pid=Api&amp;P=0&amp;h=180</string>
+
+
+</resources>
